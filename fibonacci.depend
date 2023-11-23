@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700742399 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\fibonaccin_luvut\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fibonacci.h"
+
+1700742635 c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\fibonaccin_luvut\fibonacci.h
+
